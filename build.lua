@@ -8,9 +8,9 @@ unpackfiles={"mleftright.dtx"}
 packtdszip  = true
 
 tdslocations={
-"doc/latex/oberdiek/mleftright.pdf",
-"source/latex/oberdiek/mleftright.dtx",
-"tex/generic/oberdiek/mleftright.sty",
+"doc/latex/mleftright/mleftright.pdf",
+"source/latex/mleftright/mleftright.dtx",
+"tex/generic/mleftright/mleftright.sty",
 }
 
 

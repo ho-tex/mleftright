@@ -6,6 +6,7 @@ LaTeX Warning: You have requested package `',
 Package: mleftright ....-..-.. v... Math left/right delim. as open/close (HO)
 (../infwarerr.sty
 Package: infwarerr ....-..-.. v... Providing info/warning/error messages (HO)
-) (ltxcmds.sty
+)
+(../ltxcmds.sty
 Package: ltxcmds ....-..-.. v... LaTeX kernel commands for general use (HO)
 ))
